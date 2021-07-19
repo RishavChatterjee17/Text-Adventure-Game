@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4370325c76e7acb45a20b6dc35657d5d, type: 3}
+  m_Name: Train or Taxi
+  m_EditorClassIdentifier: 
+  storyText: "It is 1:37 on a Friday night and you are waiting for a train to take
+    you home.\r Train was supposed to be there by 1:30. You are tired from work and
+    want to gome home as soon as possible.\r\n\r\n1) Wait for the train \r\n2) Take
+    a cab"
+  nextStates:
+  - {fileID: 11400000, guid: ce121211b6d73fc458ae0cce99c00606, type: 2}
+  - {fileID: 11400000, guid: 19da3e409d55bed43bdd58c5433411cf, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4370325c76e7acb45a20b6dc35657d5d, type: 3}
+  m_Name: The Game
+  m_EditorClassIdentifier: 
+  storyText: "You went back to investigate the shadowy figure. There were no one except
+    the old woman weeping alone.\r\n1) Go and ask the old woman what is wrong and
+    what is happening\r\n2) Shout at the old lady for playing such a heartless prank"
+  nextStates:
+  - {fileID: 11400000, guid: e412d0d0749eff0458668d3b1abbabc4, type: 2}
+  - {fileID: 0}

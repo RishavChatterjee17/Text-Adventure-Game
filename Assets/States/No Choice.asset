@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4370325c76e7acb45a20b6dc35657d5d, type: 3}
+  m_Name: No Choice
+  m_EditorClassIdentifier: 
+  storyText: "\rYou wanted to break the door. Suddenly, the train stopped. You looked
+    out. It was the last stop. The doors of all the compartments opened.\r\n\r\n1)
+    Get off of the train\n2) ---"
+  nextStates:
+  - {fileID: 11400000, guid: 9108e650c537bd943bb0f7099cddd9b2, type: 2}

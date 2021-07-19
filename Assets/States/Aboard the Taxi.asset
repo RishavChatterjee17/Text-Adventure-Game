@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4370325c76e7acb45a20b6dc35657d5d, type: 3}
+  m_Name: Aboard the Taxi
+  m_EditorClassIdentifier: 
+  storyText: "The platform was empty and quiet. \r\nYou could not wait any longer.
+    You booked a cab.\nThe cab arrived at 1:45. You got onto the cab. \r\nThe driver
+    was a middle-aged man with a husky voice. He asked you if you would like a cigarrete.\n\n1)
+    \"Yeah, thanks!\" you said\r\n2) I dont smoke"
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}

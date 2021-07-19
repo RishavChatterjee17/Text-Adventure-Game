@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4370325c76e7acb45a20b6dc35657d5d, type: 3}
+  m_Name: New State 1
+  m_EditorClassIdentifier: 
+  storyText: "\"\rWatch your thoughts, they become words\r\n Watch you words, they
+    become action\rs\n Watch your actions, they become habit\rs\n Watch you habits,
+    they become character\r\n Watch your character,\r\n\t\tfor it becomes your detsiny\"\n\n\t\t\t-
+    Joanne Van Der Hoeven"
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
